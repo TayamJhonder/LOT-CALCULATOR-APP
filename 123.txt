@@ -1,0 +1,35 @@
+Lot Calculator App - label1
+Lot Owner - label2
+Total Lot Size (sqm) - label3
+-------DESIGNER BOX FORMAT INORDER TO RUN THE CODE------------
+
+
+Lot Sold (sqm) - label4
+Lot Price (per sqm) - label5
+Cost - label6
+% - label7
+
+
+textBox1
+textBox2
+textBox3
+textBox4
+textBox5
+
+
+button1
+
+
+
+
+tapos yung output dapat ganto
+
+
+Lot Owner    (pangalan kahit sino)
+Total Lot Size(sqm)    1340
+Lot Sold(sqm)        5.5%
+Lot Price(per sqm)    125.00
+
+then the cost mus be like this below:
+
+Cost 9,212.50
